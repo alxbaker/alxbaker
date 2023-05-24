@@ -6,37 +6,37 @@
     <tr>
         <td>
             <p><strong>Python</strong></p>
-            <img src="https://cdn.simpleicons.org/python" height="100"/>
+            <img src="https://cdn.simpleicons.org/python" height="48"/>
         </td>
         <td>
             <p><strong>Javascript</strong></p>
-            <img src="https://cdn.simpleicons.org/javascript" height="100"/>
+            <img src="https://cdn.simpleicons.org/javascript" height="48"/>
         </td>
         <td>
             <p><strong>Git</strong></p>
-            <img src="https://cdn.simpleicons.org/git" height="100"/>
+            <img src="https://cdn.simpleicons.org/git" height="48"/>
         </td>
         <td>
             <p><strong>NPM</strong></p>
-            <img src="https://cdn.simpleicons.org/npm" height="100"/>
+            <img src="https://cdn.simpleicons.org/npm" height="48"/>
         </td>
     </tr>
     <tr>
         <td>
             <p><strong>Postman</strong></p>
-            <img src="https://cdn.simpleicons.org/postman" height="100"/>
+            <img src="https://cdn.simpleicons.org/postman" height="48"/>
         </td>
         <td>
             <p><strong>HTML</strong></p>
-            <img src="https://cdn.simpleicons.org/html5" height="100"/>
+            <img src="https://cdn.simpleicons.org/html5" height="48"/>
         </td>
         <td>
             <p><strong>CSS</strong></p>
-            <img src="https://cdn.simpleicons.org/css3" height="100"/>
+            <img src="https://cdn.simpleicons.org/css3" height="48"/>
         </td>
         <td>
             <p><strong>Adobe XD</strong></p>
-            <img src="https://cdn.simpleicons.org/adobexd" height="100">
+            <img src="https://cdn.simpleicons.org/adobexd" height="48">
         </td>
     </tr>
 </table>

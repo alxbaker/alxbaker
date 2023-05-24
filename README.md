@@ -4,39 +4,39 @@
 ## Tools and Tech
 <table>
     <tr>
-        <td>
+        <td height="48" width="48">
             <p><strong>Python</strong></p>
-            <img src="https://cdn.simpleicons.org/python" height="48"/>
+            <img src="https://cdn.simpleicons.org/python"/>
         </td>
-        <td>
+        <td height="48" width="48">
             <p><strong>Javascript</strong></p>
             <img src="https://cdn.simpleicons.org/javascript" height="48"/>
         </td>
-        <td>
+        <td height="48" width="48">
             <p><strong>Git</strong></p>
-            <img src="https://cdn.simpleicons.org/git" height="48"/>
+            <img src="https://cdn.simpleicons.org/git" />
         </td>
-        <td>
+        <td height="48" width="48">
             <p><strong>NPM</strong></p>
-            <img src="https://cdn.simpleicons.org/npm" height="48"/>
+            <img src="https://cdn.simpleicons.org/npm"/>
         </td>
     </tr>
     <tr>
-        <td>
+        <td height="48" width="48">
             <p><strong>Postman</strong></p>
-            <img src="https://cdn.simpleicons.org/postman" height="48"/>
+            <img src="https://cdn.simpleicons.org/postman"/>
         </td>
-        <td>
+        <td height="48" width="48">
             <p><strong>HTML</strong></p>
-            <img src="https://cdn.simpleicons.org/html5" height="48"/>
+            <img src="https://cdn.simpleicons.org/html5"/>
         </td>
-        <td>
+        <td height="48" width="48">
             <p><strong>CSS</strong></p>
-            <img src="https://cdn.simpleicons.org/css3" height="48"/>
+            <img src="https://cdn.simpleicons.org/css3"/>
         </td>
-        <td>
+        <td height="48" width="48">
             <p><strong>Adobe XD</strong></p>
-            <img src="https://cdn.simpleicons.org/adobexd" height="48">
+            <img src="https://cdn.simpleicons.org/adobexd">
         </td>
     </tr>
 </table>

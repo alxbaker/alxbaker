@@ -2,44 +2,15 @@
 [![](https://img.shields.io/badge/linkedin-blue?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alxbaker/)
 
 ## Tools and Tech
-<table>
-    <tr>
-        <td height="125" width="125">
-            <p><strong>Python</strong></p>
-            <img src="https://cdn.simpleicons.org/python" height="48" width="48"/>
-        </td>
-        <td height="125" width="125">
-            <p><strong>Javascript</strong></p>
-            <img src="https://cdn.simpleicons.org/javascript" height="48" width="48"/>
-        </td>
-        <td height="125" width="125">
-            <p><strong>Git</strong></p>
-            <img src="https://cdn.simpleicons.org/git" height="48" width="48"/>
-        </td>
-        <td height="125" width="125">
-            <p><strong>NPM</strong></p>
-            <img src="https://cdn.simpleicons.org/npm" height="48" width="48"/>
-        </td>
-    </tr>
-    <tr>
-        <td height="125" width="125">
-            <p><strong>Postman</strong></p>
-            <img src="https://cdn.simpleicons.org/postman" height="48" width="48"/>
-        </td>
-        <td height="125" width="125">
-            <p><strong>HTML</strong></p>
-            <img src="https://cdn.simpleicons.org/html5" height="48" width="48"/>
-        </td>
-        <td height="125" width="125">
-            <p><strong>CSS</strong></p>
-            <img src="https://cdn.simpleicons.org/css3" height="48" width="48"/>
-        </td>
-        <td height="125" width="125">
-            <p><strong>Adobe XD</strong></p>
-            <img src="https://cdn.simpleicons.org/adobexd" height="48" width="48">
-        </td>
-    </tr>
-</table>
+<div>
+    <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python" height="48" width="48"/></a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://cdn.simpleicons.org/javascript" height="48" width="48"/></a>
+    <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git" height="48" width="48"/></a>
+    <a href="https://www.npmjs.com/"><img src="https://cdn.simpleicons.org/npm" height="48" width="48"/></a>
+    <a href="https://www.postman.com/"><img src="https://cdn.simpleicons.org/postman" height="48" width="48"/></a>
+    <a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://cdn.simpleicons.org/html5" height="48" width="48"/></a>
+    <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://cdn.simpleicons.org/css3" height="48" width="48"/></a>
+</div>
 
 ## Certifications
 [![GSEC Badge](https://img.shields.io/badge/-GSEC-lightgrey?logo=credly&style=for-the-badge)](https://www.youracclaim.com/badges/f49f713f-13bd-4898-aa41-8f52f0b4ed1a)
@@ -51,7 +22,7 @@
 
 
 ## Memberships
-<p><strong>The Open Worldwide Application Secrity Project</strong></p>
+<p><strong>The Open Worldwide Application Secrity Project (OWASP)</strong></p>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/white" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/owasp"/>

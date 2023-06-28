@@ -21,10 +21,6 @@
 [![GIAC Advisory Board Badget](https://img.shields.io/badge/-GIAC%20Advisory%20Board-lightgrey?logo=credly&style=for-the-badge)](https://www.youracclaim.com/badges/93270f70-a48f-40eb-8ede-841df37ad1d4)
 
 
-## Memberships
-<p><strong>The Open Worldwide Application Secrity Project (OWASP)</strong></p>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/owasp/white" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/owasp"/>
-    <img src="https://cdn.simpleicons.org/owasp/white" height="100"/>
-</picture>
+## Stats
+![Top Langs](https://github-readme-stats-black-rho.vercel.app/api/top-langs?username=alxbaker&theme=tokyonight)
+
